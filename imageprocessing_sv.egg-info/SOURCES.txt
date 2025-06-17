@@ -1,9 +1,0 @@
-README.md
-setup.py
-imageprocessing/__init__.py
-imageprocessing/operations.py
-imageprocessing_sv.egg-info/PKG-INFO
-imageprocessing_sv.egg-info/SOURCES.txt
-imageprocessing_sv.egg-info/dependency_links.txt
-imageprocessing_sv.egg-info/requires.txt
-imageprocessing_sv.egg-info/top_level.txt

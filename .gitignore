@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Config do VS Code (se estiver usando)
+.vscode/
+
+# Arquivos de teste locais
+test_imageprocessing.py
+
+# Tokens e arquivos sensíveis (evite versionar por acidente)
+*.pypirc
